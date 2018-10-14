@@ -1,2 +1,3 @@
 # NoRain
-Simple plugin to disable weather.
+
+Ready for release. No known bugs.
